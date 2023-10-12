@@ -2,8 +2,8 @@
 
 ### Day 0: October 12, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I began working on [Erudite Ticketing System](https://github.com/memoye/erudite-ticketing-system)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm working on the nav bar. I like to take my time to make as many right decisions as possible while styling so I don't run into problems with the reponsiveness later. I seem to be indecisive about how I want the nav to look exactly, I'm sure I'll get better ideas tomorrow.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Erudite Ticketing System](https://github.com/memoye/erudite-ticketing-system/commit/502c3a4798462f392252bd4dc9294259c267c317)
