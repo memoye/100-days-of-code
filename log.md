@@ -12,6 +12,30 @@
 
 **Today's Progress**: Built a skeleton loader (loading indicator) for my event component using React. It'll conditionally render when fetching event data.
 
-**Thoughts:** This is the first loader I'm using. It may not be perfect, but it works 😁. I intentionally decided not to use any sort of UI library or anything just to exercise my CSS a little. Apparently, skeleton loaders not hard at all, just needs a bit of patience and imagine.
+**Thoughts:** This is the first loader I'm building. It may not be perfect, but it works 😁. I intentionally decided not to use any sort of UI library or anything just to exercise my CSS a little. Apparently, skeleton loaders not hard at all, just needs a bit of patience and imagine.
 
 **Link to work:** [Today's most recent commit](https://github.com/memoye/erudite-ticketing-system/commit/4dd6bffd1107be8317b5d349d5b13021ace88f84)
+
+### Day 2: October 13, 2023
+
+**Today's Progress**: Today I made some progress on the Event card component.
+
+**Thoughts:** It's not always easy coming up with the designs all on one's own as a developer, at least not for me... yet. So this is taking more time than it should. The power went out 😪. I hope I get to finish the component tomorrow though
+
+**Link to work:** _I did not push today beacuase my laptop died before I had the chance to. I'll push everything first thing tomorrow though_
+
+### Day 2: October 14, 2023
+
+**Today's Progress**: Finished the event card UI. I also created the Hero section. Now I just have to figure out how the rest of the landing page will look like
+
+**Thoughts:** It's not always easy coming up with the designs all on one's own as a developer, at least not for me... yet. So this is taking more time than it should. The power went out 😪. I hope I get to finish the component tomorrow though
+
+**Link to work:** _I did not push today beacuase my laptop died before I had the chance to. I'll push everything first thing tomorrow though_
+
+### Day 3: October 15, 2023
+
+**Today's Progress**: I finished the event card component and I also created a simple hero section today. The landing page is starting to come together 🙂
+
+**Thoughts:** I'm just taking things step by step - going known to the unknown.
+
+**Link to work:** [Today's most recent commit](https://github.com/memoye/erudite-ticketing-system/commit/286053176a9052b8229bcc33a5ab7586fc86dd80)
