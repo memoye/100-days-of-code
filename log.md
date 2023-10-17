@@ -36,6 +36,22 @@
 
 **Today's Progress**: I finished the event card component and I also created a simple hero section today. The landing page is starting to come together 🙂
 
-**Thoughts:** I'm just taking things step by step - going known to the unknown.
+**Thoughts:** I'm just taking things step by step - going from the known to the unknown.
 
 **Link to work:** [Today's most recent commit](https://github.com/memoye/erudite-ticketing-system/commit/286053176a9052b8229bcc33a5ab7586fc86dd80)
+
+### Day 4: October 16, 2023
+
+**Today's Progress**: I took a break from _Erudite_ today. I just went ahead and solved a Codewars challenge.
+
+**Thoughts:** The challenge tested my logical reasoning. It took a little while, but I figured it out eventually.
+
+[Here's the challenge](https://www.codewars.com/kata/5a1ebe0d46d843454100004c/train/javascript) and [this is my solution](https://www.codewars.com/kata/reviews/5a1f395d2d2f855d29003622/groups/652d4e9bb975a80001696cb6)
+
+### Day 5: October 17, 2023
+
+**Today's Progress**: I tried out typescript today. Building a todo list with react and firebase.
+
+**Thoughts:** TypeScript is... interesting
+
+[The repo](https://github.com/memoye/react-firebase-todo)
