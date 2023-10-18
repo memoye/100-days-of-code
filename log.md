@@ -55,3 +55,9 @@
 **Thoughts:** TypeScript is... interesting
 
 [The repo](https://github.com/memoye/react-firebase-todo)
+
+### Day 6: October 18, 2023
+
+**Today's Progress**: Today, I started working on [FLIXForte](https://github.com/memoye/flixforte): a movie database website using ReactJS, Tailwind, and the TMDb API. I've set up the router and started on the header, and it's already looking fun! 💻
+
+**Thoughts:** I think going forward, I'll just keep using tailwind. It's so much more satisfying for me.
