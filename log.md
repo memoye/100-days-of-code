@@ -24,14 +24,6 @@
 
 **Link to work:** _I did not push today beacuase my laptop died before I had the chance to. I'll push everything first thing tomorrow though_
 
-### Day 2: October 14, 2023
-
-**Today's Progress**: Finished the event card UI. I also created the Hero section. Now I just have to figure out how the rest of the landing page will look like
-
-**Thoughts:** It's not always easy coming up with the designs all on one's own as a developer, at least not for me... yet. So this is taking more time than it should. The power went out 😪. I hope I get to finish the component tomorrow though
-
-**Link to work:** _I did not push today beacuase my laptop died before I had the chance to. I'll push everything first thing tomorrow though_
-
 ### Day 3: October 15, 2023
 
 **Today's Progress**: I finished the event card component and I also created a simple hero section today. The landing page is starting to come together 🙂
