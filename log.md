@@ -53,3 +53,17 @@
 **Today's Progress**: Today, I started working on [FLIXForte](https://github.com/memoye/flixforte): a movie database website using ReactJS, Tailwind, and the TMDb API. I've set up the router and started on the header, and it's already looking fun! 💻
 
 **Thoughts:** I think going forward, I'll just keep using tailwind. It's so much more satisfying for me.
+
+_out of internet bandwidth on 19th and 20th_
+
+### Day 7: October 21, 2023
+
+**Today's Progress** Responsive nav done for [FLIXForte](https://github.com/memoye/flixforte)
+
+**Thoughts:** Happy with how it looks on mobile. Added lorem ipsum to test header scrolling and the search bar. Came up with the design on the go, which was inefficient and slowed me down. Definitely planning better for future projects! ✍️
+
+### Day 8: October 22 2023
+
+**Today's Progress**: Hero section and dark mode switch for [FLIXForte](https://github.com/memoye/flixforte) done!
+
+**Thoughts:**Movie card next, will start calling TMDB API to show movies soon!
